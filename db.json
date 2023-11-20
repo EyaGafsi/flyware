@@ -10,7 +10,7 @@
   "price": 200,
   "nbBuisPlaces": 12,
   "nbEcoPlaces": 27,
-  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
+  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png"
 },  
 {
   "id": 2,
@@ -22,7 +22,7 @@
   "price": 400,
   "nbBuisPlaces": 12,
   "nbEcoPlaces": 27,
-  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
+  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png"
 },
 {
   "id": 3,
@@ -34,11 +34,11 @@
   "price": 300,
   "nbBuisPlaces": 12,
   "nbEcoPlaces": 27,
-  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
-},
+  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png"
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  ]
 }
