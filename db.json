@@ -1,7 +1,7 @@
 {
   "flights": [
   {
-  "id": "1",
+  "id": 1,
   "duration": "1h30",
   "date": "2023-11-30",
   "returnDate": "2023-12-13",
@@ -13,7 +13,7 @@
   "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
 },  
 {
-  "id": "2",
+  "id": 2,
   "duration": "8h",
   "date": "2023-11-25",
   "returnDate": "2023-12-05",
@@ -25,7 +25,7 @@
   "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
 },
 {
-  "id": "3",
+  "id": 3,
   "duration": "8h",
   "date": "2023-11-23",
   "returnDate": "2023-11-30",
