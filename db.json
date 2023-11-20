@@ -1,0 +1,47 @@
+{
+  "flights": [
+  {
+  "id": "1",
+  "duration": "1h30",
+  "date": "2023-11-30",
+  "returnDate": "2023-12-13",
+  "destination": "france",
+  "departure": "tunisie",
+  "price": 200$,
+  "nbBuisPlaces": 12,
+  "nbEcoPlaces": 27,
+  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
+},  
+{
+  "id": "2",
+  "duration": "8h",
+  "date": "2023-11-25",
+  "returnDate": "2023-12-05",
+  "destination": "canada",
+  "departure": "tunisie",
+  "price": 59,
+  "nbBuisPlaces": 12,
+  "nbEcoPlaces": 27,
+  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
+},
+{
+  "id": "3",
+  "duration": "8h",
+  "date": "2023-11-23",
+  "returnDate": "2023-11-30",
+  "destination": "canada",
+  "departure": "france",
+  "price": 59,
+  "nbBuisPlaces": 12,
+  "nbEcoPlaces": 27,
+  "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png",
+},
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
