@@ -38,6 +38,16 @@
 }
   ],
   "bookings": [
-    {}
+      {
+  "duration": "1h30",
+  "date": "2023-11-30",
+  "returnDate": "2023-12-13",
+  "destination": "france",
+  "departure": "tunisie",
+  "price": 200,
+  "nbAdulte": 2,
+  "nbChildren": 0,
+  "classe": "buisiness",
+},  
   ]
 }
