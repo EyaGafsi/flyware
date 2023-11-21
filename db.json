@@ -37,8 +37,7 @@
   "imagePath": "http://localhost:3000/images/1700429968060_flutter2.png"
 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "bookings": [
+    {}
   ]
 }
