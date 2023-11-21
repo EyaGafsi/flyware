@@ -38,7 +38,7 @@
 }
   ],
   "bookings": [
-      {
+  {
   "id": 1,
   "duration": "1h30",
   "date": "2023-11-30",
@@ -48,7 +48,7 @@
   "price": 200,
   "nbAdulte": 2,
   "nbChildren": 0,
-  "classe": "buisiness",
+  "classe": "buisiness"
 } 
   ]
 }
